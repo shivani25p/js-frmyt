@@ -1,0 +1,1 @@
+console.log("basics of js by Shiv")
